@@ -1,0 +1,10 @@
+flawsk/.hg/*
+flawsk/.hgignore
+flawsk/virt
+flawsk/.git/*
+flawsk/.gitignore
+flawsk-web/.hg/*
+flawsk-web/.hgignore
+flawsk-web/.git/*
+flawsk-web/.gitignore
+
