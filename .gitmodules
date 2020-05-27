@@ -1,0 +1,6 @@
+[submodule "flawsk-web"]
+	path = flawsk-web
+	url = https://github.com/podit/flawsk-web.git
+[submodule "flawsk"]
+	path = flawsk
+	url = https://github.com/podit/flawsk.git
